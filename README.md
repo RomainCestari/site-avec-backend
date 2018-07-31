@@ -1,24 +1,11 @@
-# README
+# je-me-presente-encore
+Projet réalisé par l'équipe THP de Marseille : Ahmed Bouzid, Thomas Iatrou, Romain Cestari
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Réalisation d'une app et mise en ligne sur Heroku.
 
-Things you may want to cover:
+Cette app static-pages permet de se présenter via un formulaire
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Lien Heroku de l'application : https://je0me0presente0encore.herokuapp.com
 
 * ...
