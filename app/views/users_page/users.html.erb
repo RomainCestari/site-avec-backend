@@ -1,0 +1,20 @@
+<center>
+
+<h1>Tu es venu pour t'inscrire chez nous ?</h1>
+
+<p> Comment tu t'appelles ?</p>
+
+
+<form action="/suscribe" method="POST">
+<input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+	
+	Ton nom ici :
+	<input type="text" name="name"> <br><br>
+	Ta bio ici :
+	<textarea  type="text" name="bio"> </textarea> <br>
+	<input type="submit" value="Inscription">
+
+
+</form>
+
+</center>

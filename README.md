@@ -1,8 +1,24 @@
-# site-avec-backend
-Projet réalisé par l'équipe THP de Marseille : Ahmed Bouzid, Thomas Iatrou, Romain Cestari
+# README
 
-Réalisation de pages statiques et mise en ligne sur Heroku.
-Cette app est simple et permet de manipuler les liens, les routes et le controller.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
+Things you may want to cover:
 
-Lien Heroku de l'application : 
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
